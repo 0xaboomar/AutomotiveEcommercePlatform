@@ -10,6 +10,8 @@ using Microsoft.EntityFrameworkCore;
 using ReactApp1.Server.Data;
 using System.Security.Claims;
 
+// AutomotiveEcommercePlatform Controller
+
 namespace AutomotiveEcommercePlatform.Server.Controllers
 {
     [Route("api/[controller]")]
